@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="base_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/dimen80</item>
+        <item name="android:layout_margin">@dimen/dimen20</item>
+    </style>
+
+    <dimen name="dimen80">80dp</dimen>
+</resources>
